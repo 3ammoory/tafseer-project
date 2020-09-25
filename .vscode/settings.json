@@ -2,7 +2,7 @@
     "python.pythonPath": "/usr/local/bin/python3.8",
     "editor.formatOnSave": true,
     "python.linting.pycodestyleEnabled": false,
-    "python.linting.pylintPath": "/home/omar/.local/bin/pylint",
+    "python.linting.pylintPath": "/usr/local/bin/pylint",
     "python.linting.pylintArgs": [
         "--load-plugins",
     ],
